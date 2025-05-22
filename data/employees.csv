@@ -1,0 +1,6 @@
+employee_id,name,age,department,salary
+1,Alice Brown,29,Engineering,85000
+2,Bob Smith,,HR,60000
+3,Carol Johnson,45,Engineering,120000
+4,David Lee,31,Marketing,75000
+5,Eve Davis,28,Engineering,
