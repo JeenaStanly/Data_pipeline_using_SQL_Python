@@ -10,8 +10,4 @@ This project demonstrates a simple ETL (Extract, Transform, Load) pipeline using
 
 ## 🚀 Getting Started
 
-### 1. Clone the repo
 
-```bash
-git clone https://github.com/your-username/etl-pipeline-sql-python.git
-cd etl-pipeline-sql-python
